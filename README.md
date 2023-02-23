@@ -14,3 +14,5 @@
 <br>
 <br>
 <br>
+
+[![HiagoPaulo GitHub stats](https://github-readme-stats.vercel.app/api?username=HiagoPaulo)](https://github.com/anuraghazra/github-readme-stats)
